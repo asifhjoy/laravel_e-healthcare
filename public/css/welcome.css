@@ -1,0 +1,99 @@
+
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 3vh;
+}
+
+.top-left{
+    position: absolute;
+    left: 10px;
+    top: 3vh;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    padding: 0 25px;
+    font-size: 15px;
+    font-weight: 800;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    color: white;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+footer{
+    position: absolute;
+    background-color: #1d455b;
+    width: 100%;
+    flex-shrink: 0;
+    height: 10vh;
+    bottom:0;
+    left: 0;
+    text-align: center;
+    color: white;
+}
+.topnav {
+    overflow: hidden;
+    position: absolute;
+    background-color: #1d455b;
+    width: 100%;
+    flex-shrink: 0;
+    height: 10vh;
+    top:0;
+    left: 0;
+    text-align: center;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+
+    color: black;
+
+}
+
+
+
