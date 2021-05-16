@@ -23,7 +23,7 @@ E-HealthCare is an online healthcare system. The system provides online consulta
 <ul>
 <li>Default Auth System of Laravel is implemented</li>
 <li>Email Verification is disabled. Set up SMTP in .env and Check User model for implementing Email Services</li>
-<li>Chek out the seeder files</li>
+<li>Check out the seeder files</li>
 </ul>
 
 ## Security Vulnerabilities
